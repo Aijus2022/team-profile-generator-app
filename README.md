@@ -22,6 +22,8 @@ Generate HTML: Once you have entered information for all team members and opted 
 ## Mock-Up
 HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.
 ![My Team Screenshot][screenshots/Screenshot 2024-02-14 024722.png](https://github.com/Aijus2022/team-profile-generator-command-line-app/blob/1a5be4ddb69e1e896589dc13229b18c47a5d3db2/screenshots/Screenshot%202024-02-14%20024722.png)
+![My Team Video demo][2024-02-14_05-22-44
+https://www.vidline.com/share/V02WH23DO5/cbf99ed15f5f2effee6eb367bae293e9]
 Note: The styling in the mock-up serves as an example; feel free to customize the appearance according to your preferences.
 
 ## Testing
