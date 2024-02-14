@@ -5,21 +5,23 @@ This Node.js command-line application simplifies the process of generating a web
 As a manager, I want to effortlessly generate a webpage displaying my team's essential information, providing convenient access to their emails and GitHub profiles.
 
 ## Usage Instructions
-Install Dependencies: Before running the application, ensure that you have Node.js installed on your system. Then, navigate to the project directory in your terminal and run:
+## [Clone Repository]([https://github.com/yourusername/your-repository](https://github.com/Aijus2022/team-profile-generator-command-line-app))
 
+### Install Dependencies: Before running the application, ensure that you have Node.js installed on your system. Then, navigate to the project directory in your terminal and run:
 
 npm install
-Run the Application: Execute the following command in your terminal to start the application:
 
+### Run the Application: Execute the following command in your terminal to start the application:
 
 node index.js
-Provide Team Information: Follow the prompts to enter the necessary details for each team member. Start by entering the team manager's information, then choose to add engineers, interns, or finish building the team.
 
-Generate HTML: Once you have entered information for all team members and opted to finish building the team, the application automatically generates an HTML file titled team.html in the output folder.
+### Provide Team Information: Follow the prompts to enter the necessary details for each team member. Start by entering the team manager's information, then choose to add engineers, interns, or finish building the team.
+
+### Generate HTML: Once you have entered information for all team members and opted to finish building the team, the application automatically generates an HTML file titled team.html in the output folder.
 
 ## Mock-Up
 HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.
-
+![My Team Screenshot](./Assets/14-object-oriented-programming-challenge-demo.png)
 Note: The styling in the mock-up serves as an example; feel free to customize the appearance according to your preferences.
 
 ## Testing
