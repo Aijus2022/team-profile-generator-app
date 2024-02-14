@@ -5,23 +5,23 @@ This Node.js command-line application simplifies the process of generating a web
 As a manager, I want to effortlessly generate a webpage displaying my team's essential information, providing convenient access to their emails and GitHub profiles.
 
 ## Usage Instructions
-## [Clone Repository]([https://github.com/yourusername/your-repository](https://github.com/Aijus2022/team-profile-generator-command-line-app))
+ [Clone Repository]([https://github.com/yourusername/your-repository](https://github.com/Aijus2022/team-profile-generator-command-line-app))
 
-### Install Dependencies: Before running the application, ensure that you have Node.js installed on your system. Then, navigate to the project directory in your terminal and run:
+Install Dependencies: Before running the application, ensure that you have Node.js installed on your system. Then, navigate to the project directory in your terminal and run:
 
 npm install
 
-### Run the Application: Execute the following command in your terminal to start the application:
+Run the Application: Execute the following command in your terminal to start the application:
 
 node index.js
 
-### Provide Team Information: Follow the prompts to enter the necessary details for each team member. Start by entering the team manager's information, then choose to add engineers, interns, or finish building the team.
+Provide Team Information: Follow the prompts to enter the necessary details for each team member. Start by entering the team manager's information, then choose to add engineers, interns, or finish building the team.
 
-### Generate HTML: Once you have entered information for all team members and opted to finish building the team, the application automatically generates an HTML file titled team.html in the output folder.
+Generate HTML: Once you have entered information for all team members and opted to finish building the team, the application automatically generates an HTML file titled team.html in the output folder.
 
 ## Mock-Up
 HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.
-![My Team Screenshot](./Assets/14-object-oriented-programming-challenge-demo.png)
+![My Team Screenshot](view-source:https://github.com/Aijus2022/team-profile-generator-command-line-app/blob/main/screenshots/Screenshot%202024-02-14%20024722.png)
 Note: The styling in the mock-up serves as an example; feel free to customize the appearance according to your preferences.
 
 ## Testing
@@ -31,12 +31,12 @@ To ensure the reliability and accuracy of the application, comprehensive testing
 Classes: The application employs classes for different team member roles, including Employee, Manager, Engineer, and Intern, each with specific properties and methods.
 User Input: Utilizing the Inquirer package, the application collects user input to gather information about team members.
 HTML Rendering: Upon completing the input process, the application generates an HTML webpage with summaries for each team member, using the render function provided.
-## Validation: While not explicitly required, the application incorporates basic validation to ensure proper formatting of user input.
+## Validation 
+While not explicitly required, the application incorporates basic validation to ensure proper formatting of user input.
 ## Additional Notes
 Customization: You have the flexibility to customize the styling and appearance of the generated HTML webpage according to your preferences.
 Output Location: The generated HTML file (team.html) is saved in the output folder within the project directory.
 Enhancements: Consider additional features or enhancements to further improve the application's functionality and user experience.
 ## Author
 This application was created by Aijamal Jusupova.
-
 For any inquiries or feedback, please contact aijus@mail.ru.
