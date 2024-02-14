@@ -5,7 +5,7 @@ This Node.js command-line application simplifies the process of generating a web
 As a manager, I want to effortlessly generate a webpage displaying my team's essential information, providing convenient access to their emails and GitHub profiles.
 
 ## Usage Instructions
- [Clone Repository]([https://github.com/yourusername/your-repository](https://github.com/Aijus2022/team-profile-generator-command-line-app))
+ [Clone Repository](https://github.com/Aijus2022/team-profile-generator-command-line-app)
 
 Install Dependencies: Before running the application, ensure that you have Node.js installed on your system. Then, navigate to the project directory in your terminal and run:
 
@@ -21,7 +21,7 @@ Generate HTML: Once you have entered information for all team members and opted 
 
 ## Mock-Up
 HTML webpage titled “My Team” features five boxes listing employee names, titles, and other key info.
-![My Team Screenshot](view-source:https://github.com/Aijus2022/team-profile-generator-command-line-app/blob/main/screenshots/Screenshot%202024-02-14%20024722.png)
+![My Team Screenshot](screenshots/Screenshot 2024-02-14 024722.png)
 Note: The styling in the mock-up serves as an example; feel free to customize the appearance according to your preferences.
 
 ## Testing
